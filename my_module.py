@@ -5,4 +5,4 @@ def sub(a,b):
 def mul(a,b):
     return a*b
 def sss(a,b):
-    retunr a/b
+    return a//b # 마스터!!!!
