@@ -4,5 +4,5 @@ def sub(a,b):
     return a-b
 def mul(a,b):
     return a*b
-def sss(a,b):
-    retunr a/b
+def Div(a,b):
+    return a//b
